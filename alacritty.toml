@@ -28,3 +28,7 @@ style = "Regular"
 # opacity = 1.0 # set to < 1 for transparent background
 
 # }}}
+
+# NOTE:
+# If you get an `unused key: ...` error, it means that you should remove it
+# because it's not used.
