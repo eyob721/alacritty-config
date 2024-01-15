@@ -5,19 +5,19 @@
 size = 8
 
 [font.bold]
-family = "FiraCode Nerd Font"
+family = "Hasklug Nerd Font"
 style = "Bold"
 
 [font.bold_italic]
-family = "FiraCode Nerd Font"
+family = "Hasklug Nerd Font"
 style = "Bold Italic"
 
 [font.italic]
-family = "FiraCode Nerd Font"
+family = "Hasklug Nerd Font"
 style = "Regular Italic"
 
 [font.normal]
-family = "FiraCode Nerd Font"
+family = "Hasklug Nerd Font"
 style = "Regular"
 
 # }}}
